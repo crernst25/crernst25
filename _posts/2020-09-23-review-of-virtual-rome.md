@@ -8,4 +8,7 @@ title: About Me
 
 **Project Header:** Dr. Matthew Niccols 
 
-**Project URL:** (https://research.reading.ac.uk/virtualrome/) 
+**Project URL:** https://research.reading.ac.uk/virtualrome/
+
+---
+## About the Project
