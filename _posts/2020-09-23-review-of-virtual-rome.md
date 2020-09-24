@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Me
+title: Review of Virtual Rome
 ---
 # Review of University of Reading's Virtual Rome 
 
