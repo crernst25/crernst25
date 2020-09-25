@@ -1,7 +1,3 @@
----
-layout: post
-title: Review of Virtual Rome
----
 # Review of University of Reading's Virtual Rome 
 
 **Project:** Virtual Rome 
