@@ -1,7 +1,3 @@
-# Name of your site (displayed in the header)
-title: Caroline Writing for the Digital Humanities
-# Short bio or description (displayed in the header)
-description: Blog for ENGL 350
 ---
 layout: post
 title: Review of Virtual Rome
