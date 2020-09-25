@@ -1,5 +1,7 @@
 # Review of University of Reading's Virtual Rome 
 
+---
+
 **Project:** Virtual Rome 
 
 **Project Header:** Dr. Matthew Nicholls 
