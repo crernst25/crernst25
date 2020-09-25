@@ -21,3 +21,5 @@ Another important feature of the model is the ability to change the lighting to 
 
 ## Review of the Project
 
+As a Classical Studies minor and someone who studied abroad in Rome last fall, this project really appealed to me. The Colosseum was one of my favorite places to visit while living there, and the idea of being able to see what it looked like when it was originally constructed made this project really interesting. 
+
