@@ -23,3 +23,5 @@ Another important feature of the model is the ability to change the lighting to 
 
 As a Classical Studies minor and someone who studied abroad in Rome last fall, this project really appealed to me. The Colosseum was one of my favorite places to visit while living there, and the idea of being able to see what it looked like when it was originally constructed made this project really interesting. 
 
+Using the interface, it isn't super clear what the purpose of the project is. I took the time to dig around the site and found out Nicholl's interests in light, but if I hadn't, the light tool's purpose might not be completely obvious. The bar to change the light is very clear on the right side of the model, so it obvious that this is something that you are supposed to use, but after trying it out, it is a little confusing to see that it only adjusts the lighting on the monument. 
+
