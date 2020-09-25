@@ -35,3 +35,4 @@ Despite my critiques of the model, the detail of this project is just incredible
 
 ![Picture of the Colosseum in Rome at dusk. The sky is still a little light, but the Colosseum in all in shadows and the lights in the arches cause it to light up with a warm orange light. There are some tall pointed trees in front of the Colosseum.](http://crernst25.github.io/crernst25/images/colosseo-first-attempt.png)
 
+kk
