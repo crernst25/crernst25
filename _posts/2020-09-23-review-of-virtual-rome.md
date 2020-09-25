@@ -15,6 +15,8 @@ Virtual Rome's main attraction is their model of the Colosseum. By loading their
 
 Another important feature of the model is the ability to change the lighting to imitate different times of the day. In [an article](http://blogs.reading.ac.uk/the-forum/2012/03/09/roman-fragments-and-digital-modelling-shed-light-on-urban-spectacle/) that Nicholls wrote about his study on a different Roman monument, he talks about how lighting in a specific structure can lead historians to what the possible functions of the monument were. By exploring the lighting in the Colosseum, Nicholls is inviting scholars and students to discuss the significance of the lighting in terms of archaeological structure of the monument. 
 
+![screenshot of the interior of the arena of the Colosseum. It shows the arena itself, as well as captures what the stadium seats look like. The stadium seats are long white marble slabs that continue in rows up the Colosseum. There is a shadow falling over the right side of the monument, helping to illustrate the changes in light with the model.](http://crernst25.github.io/crernst25/images/arena-model-1.png)
+
 ## Review of the Project
 
 As a Classical Studies minor and someone who studied abroad in Rome last fall, this project really appealed to me. The Colosseum was one of my favorite places to visit while living there, and the idea of being able to see what it looked like when it was originally constructed made this project really interesting. 
