@@ -8,7 +8,7 @@ title: Review of Virtual Rome
 
 **Project Header:** Dr. Matthew Nicholls 
 
-**Project URL:** https://research.reading.ac.uk/virtualrome/
+**Project URL:** [Virtual Rome](https://research.reading.ac.uk/virtualrome/)
 
 ---
 ## About the Project
