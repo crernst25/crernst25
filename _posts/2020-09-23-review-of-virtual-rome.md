@@ -13,7 +13,7 @@ title: Review of Virtual Rome
 ---
 ## About the Project
 
-Virtual Rome is an online model of some of Ancient Rome's most important and iconic monuments created by Dr. Matthew Nicholls, an Associate Professor of Classics at the University of Reading in England. He has interests in both Roman society and histiry, and online models in educational settings, which led him to begin this project in the first place. 
+Virtual Rome is an online model of some of Ancient Rome's most important and iconic monuments created by Dr. Matthew Nicholls, an Associate Professor of Classics at the University of Reading in England. He has interests in both Roman society and history, and online models in educational settings, which led him to begin this project in the first place. 
 
 Virtual Rome's main attraction is their model of the Colosseum. By loading their program, you can interact with the monument how it looked hundreds of years ago when it was first built—intact with pure white stone. Users can zoom in on different aspects of the Colosseum, getting to see the minute detailing of the monument up close. You can also rotate the monument around so that you can view it from different perspectives. 
 
@@ -29,7 +29,7 @@ Continuing, it would have been really helpful if there was a short tutorial opti
 
 Once I got oriented with the project and its purpose, I started to move around to get a closer look of the monument that I loved so much. I found it a little hard to navigate on the model, however; the zoom and movement functions seemed to be a little sensitive, and it was hard to make small movements across the model. I really wanted to get a close up look at the arches, and even though the arches are a big part of the Colosseum, every time I tried to zoom in, my screen would instead zoom in on the plain grey background and I would have to zoom back out to even find where the Colosseum was on the model. 
 
-Still, with a lot of time and patience, I got to navigate the Colosseum. I loved being able to see what it looked like as a full structure, rather than the ruins that we have left and how the statues added to the façade. The virtual model did include a video tour that took viewers briefly through the Colosseu, which can be helpful for those who get frustrated easily with the interface. The site also offers different options for viewing, like a mobile version and ways to view it on apps like AR and Cardboard, which can be helpful in reaching wider audiences. 
+Still, with a lot of time and patience, I got to navigate the Colosseum. I loved being able to see what it looked like as a full structure, rather than the ruins that we have left and how the statues added to the façade. The virtual model did include a video tour that took viewers briefly through the Colosseum, which can be helpful for those who get frustrated easily with the interface. The site also offers different options for viewing, like a mobile version and ways to view it on apps like AR and Cardboard, which can be helpful in reaching wider audiences. 
 
 Despite my critiques of the model, the detail of this project is just incredible and I still had the same level of saw viewing this online Colosseum that I did seeing it in person. 
 
