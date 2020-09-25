@@ -31,3 +31,4 @@ Once I got oriented with the project and its purpose, I started to move around t
 
 Still, with a lot of time and patience, I got to navigate the Colosseum. I loved being able to see what it looked like as a full structure, rather than the ruins that we have left and how the statues added to the façade. The virtual model did include a video tour that took viewers briefly through the Colosseu, which can be helpful for those who get frustrated easily with the interface. The site also offers different options for viewing, like a mobile version and ways to view it on apps like AR and Cardboard, which can be helpful in reaching wider audiences. 
 
+Despite my critiques of the model, the detail of this project is just incredible and I still had the same level of saw viewing this online Colosseum that I did seeing it in person. 
