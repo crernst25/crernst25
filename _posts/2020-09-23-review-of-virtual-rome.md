@@ -33,6 +33,6 @@ Still, with a lot of time and patience, I got to navigate the Colosseum. I loved
 
 Despite my critiques of the model, the detail of this project is just incredible and I still had the same level of saw viewing this online Colosseum that I did seeing it in person. 
 
-![Picture of the Colosseum in Rome at dusk. The sky is still a little light, but the Colosseum in all in shadows and the lights in the arches cause it to light up with a warm orange light. There are some tall pointed trees in front of the Colosseum.](http://crernst25.github.io/crernst25/images/colosseo-first-attempt.png)
+![Picture of the Colosseum in Rome at dusk. The sky is still a little light, but the Colosseum in all in shadows and the lights in the arches cause it to light up with a warm orange light. There are some tall pointed trees in front of the Colosseum.](http://crernst25.github.io/crernst25/images/colosseo-second-attempt.png)
 
 kk
