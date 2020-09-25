@@ -19,4 +19,5 @@ Virtual Rome's main attraction is their model of the Colosseum. By loading their
 
 Another important feature of the model is the ability to change the lighting to imitate different times of the day. In an article that Nicholls wrote about his study on a different Roman monument, he talks about how lighting in a specific structure can lead historians to what the possible functions of the monument were. By exploring the lighting in the Colosseum, Nicholls is inviting scholars and students to discuss the significance of the lighting in terms of archaeological structure of the monument. 
 
+## Review of the Project
 
