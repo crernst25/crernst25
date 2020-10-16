@@ -8,3 +8,5 @@ For this assignment, I was given the second column of page 649 of Charlotte Perk
 
 After being assigned our individual sections, we each had accesss to a Google Doc with our text copied into it. There, we marked things like where paragraphs started, any quotations, italics, em-dashes, and even images. I was really thankful to only have paragraph markers, dialogue, and one instance where a word was italicised in my reading, so I wasn't overly confused about what I needed to be marking in this section of the project. 
 
+![screenshot of a Google Doc with a bunch of comments on the right hand side, which say things like "new paragraph" and "quotes"](http://crernst25.github.io/crernst25/images/screenshot-of-google-doc.png) 
+
