@@ -22,3 +22,5 @@ Another aspect of using Oxygen is the XML tags. While this was new to a lot of s
 
 This background experience was super helpful in coding in Oxygen, even though I had never used a coding program before. Still, out of all of the confusion with navigating the app, I knew about the logistics of tagging, like to always remember to have the closing tag and to include all of my text within the body tag. However, this experience only helped me *understand* what I was doing. There were tags that I had to use that I had never used before, like the quotation and italics tags, so I was still alert as I was typing everything out to make sure that I was doing everything correctly. 
 
+![screenshot of code in Oxygen. It shows the body of the code with the text from "The Yellow Wallpaper". There are sections that are tagged with quotations, other with paragraphs, and an instance of italics.](http://crernst25.github.io/crernst25/images/screenshot-of-oxygen-code.png) 
+
