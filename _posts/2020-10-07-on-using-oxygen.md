@@ -16,3 +16,5 @@ Further, by going through and marking each thing that I would be coding later, i
 
 While marking the Google Doc helped to ease a lot of fears about this project, once I had to download Oxygen, that fear returned. I'm not super tech-savvy. My parents are both computer analysts, but it seems like that tech gene skipped a generation. Opening Oxygen and the TEI file I would be working in for the first time was super overwhelming—the file opened up, and suddenly I was faced with all of these lines of code and I had no idea what they meant. 
 
+Further, when I work in Word, Docs, and other word processors, I find a lot of comfort in knowing what each of the functions are and where to find everything. Even though my professor was teaching us how to us Oxygen, it was still a huge learning curve as I clicked around, trying to get the hang of the program. Thankfully, by the end of the class period, I started to feel more comfortable with using the program, but it also helped that our professor gave us time during the following class period to work in coding so that we could ask her questions. 
+
