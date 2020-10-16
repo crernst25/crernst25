@@ -14,3 +14,5 @@ Further, by going through and marking each thing that I would be coding later, i
 
 ## Using Oxygen and XML
 
+While marking the Google Doc helped to ease a lot of fears about this project, once I had to download Oxygen, that fear returned. I'm not super tech-savvy. My parents are both computer analysts, but it seems like that tech gene skipped a generation. Opening Oxygen and the TEI file I would be working in for the first time was super overwhelming—the file opened up, and suddenly I was faced with all of these lines of code and I had no idea what they meant. 
+
