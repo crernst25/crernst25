@@ -10,3 +10,5 @@ After being assigned our individual sections, we each had accesss to a Google Do
 
 ![screenshot of a Google Doc with a bunch of comments on the right hand side, which say things like "new paragraph" and "quotes"](http://crernst25.github.io/crernst25/images/screenshot-of-google-doc.png) 
 
+Further, by going through and marking each thing that I would be coding later, it really helped to break down what I needed to do once I started working in Oxygen. Looking at my Doc, I felt a lot less overwhelmed, and the coding aspect seemed a lot less daunting. 
+
