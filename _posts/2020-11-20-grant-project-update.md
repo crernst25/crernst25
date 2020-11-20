@@ -20,4 +20,6 @@ Later in my researching process, I came across [*The Homer Multitext Project*](h
 
 ![Screenshot of a page from The Iliad from The Homer Multitext Project. In a column on the left, there is the original Greek translations, while the English translation sits opposite to it on the right. One line is highlighted yellow, matching up the two translations.](http://crernst25.github.io/crernst25/images/the-homer-multitext-project.png)
 
+The only criticism I have of this site is that each translation has its own separate page, instead of organizing all of the translations together on one page where the user can easily switch between the different translations. 
+
 
