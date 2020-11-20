@@ -26,4 +26,5 @@ The only criticism I have of this site is that each translation has its own sepa
 
 In addition to researching several different sites so that I can further differentiate my project and improve on what already exists, I have also started collecting translations of my favorite Sappho poem: Fragment 147. Not only is this a poem that I think is particularly beautiful and thought-provoking, I also think that it helps to highlight how different translations can have very different interpretations of the same poem. 
 
+The translation featured below is my personal favorite, taken from Anne Carson's collection, *If Not, Winter: Fragments of Sappho*: 
 
