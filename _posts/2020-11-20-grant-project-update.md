@@ -10,7 +10,7 @@ Rather than just making a collection of her work, I would also like to incorpora
 
 ## Research 
 
-When researching the field to see what already exists, I found that there weren't a lot of collections of Sappho's work in gneeral, and when I did find them, they weren't very interactive. 
+When researching the field to see what already exists, I found that there weren't a lot of collections of Sappho's work in general, and when I did find them, they weren't very interactive. 
 
 Sean B. Palmer's webpage, [*Sappho's Poems*](http://inamidst.com/stuff/sappho/), contains both the original Greek and an English translation of the poem, but the translations aren't side-by-side, making it hard to compare the translations to the original. Further, all of the poems are on one page with an endless cross, so it is difficult to find a specific poem if there is one that the reader has in mind. 
 
