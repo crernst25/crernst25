@@ -38,7 +38,7 @@ Next, a translation from Edwin Marion Cox, which has a very different meaning fr
 
 ![Screenshot of Fragment 147 that reads: I think men will remember us even hereafter. The original Greek is also stated above the English translation.](http://crernst25.github.io/crernst25/images/cox-translation.png)
 
-Lastly, I pull from *The Digital Sappho* to help represent the original Greek, but also to utilize their vocab function from their cite to help show where the other three translators are pulling their meanings from: 
+Lastly, I pull from *The Digital Sappho* to represent the original Greek, but also to utilize their vocab function from their cite to show where the other three translators are pulling their meanings from: 
 
 ![Page from The Digital Sappho that features fragment 147 in the center page in the original Greek translation. On the right hand side, the Greek words are translated into different meanings.](http://crernst25.github.io/crernst25/images/the-digital-sappho-translation.png)
 
