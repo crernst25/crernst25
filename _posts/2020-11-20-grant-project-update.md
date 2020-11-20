@@ -34,7 +34,7 @@ In a similar translation to Carson, there is also Mary Bernard's:
 
 ![Screenshot of Fragment 147 that reads: Let me tell you this: / someone in some future time / will think of us](http://crernst25.github.io/crernst25/images/mary-bernard-translation.png)
 
-Next, a translation from Edwin Marion Cox, which has a very different translation from the previous two, despite being from the same fragment: 
+Next, a translation from Edwin Marion Cox, which has a very different meaning from the previous two, despite being from the same fragment: 
 
 ![Screenshot of Fragment 147 that reads: I think men will remember us even hereafter. The original Greek is also stated above the English translation.](http://crernst25.github.io/crernst25/images/cox-translation.png)
 
