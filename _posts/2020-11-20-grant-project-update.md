@@ -18,4 +18,6 @@ On the other hand, [*The Digital Sappho*](https://digitalsappho.org/fragments/fr
 
 Later in my researching process, I came across [*The Homer Multitext Project*](http://www.homermultitext.org/), which focuses soley on the works of Homer, specifically the different translations of *The Iliad*. While this project doesn't relate to Sappho, it was the closest thing I found to what I want to do. Here is an anthology of Homer's works in one place, collecting different translations, and urging comparisons between the different versions. When opening a specific translation, this site also has the English and Greek side-by-side so that the lines of the poems are matched up. Further, when I drag my mouse over the line, it highlights the whole line in both translations in yellow, allowing the reader to focus on the line-by-line translation. 
 
+![Screenshot of a page from The Iliad from The Homer Multitext Project. In a column on the left, there is the original Greek translations, while the English translation sits opposite to it on the right. One line is highlighted yellow, matching up the two translations.](http://crernst25.github.io/crernst25/images/the-homer-multitext-project.png)
+
 
