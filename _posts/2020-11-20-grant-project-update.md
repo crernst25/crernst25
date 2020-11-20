@@ -34,3 +34,5 @@ In a similar translation to Carson, there is also Mary Bernard's:
 
 ![Screenshot of Fragment 147 that reads: Let me tell you this: / someone in some future time / will think of us](http://crernst25.github.io/crernst25/images/mary-bernard-translation.png)
 
+Next, a translation from Edwin Marion Cox, which has a very different translation from the previous two, despite being from the same fragment: 
+
