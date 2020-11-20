@@ -12,4 +12,4 @@ Rather than just making a collection of her work, I would also like to incorpora
 
 When researching the field to see what already exists, I found that there weren't a lot of collections of Sappho's work in gneeral, and when I did find them, they weren't very interactive. 
 
-Sean B. Palmer's webpage, *Sappho's Poems*, contains both the original Greek 
+Sean B. Palmer's webpage, [*Sappho's Poems*](http://inamidst.com/stuff/sappho/), contains both the original Greek 
