@@ -42,3 +42,4 @@ Lastly, I pull from *The Digital Sappho* to help represent the original Greek, b
 
 ![Page from The Digital Sappho that features fragment 147 in the center page in the original Greek translation. On the right hand side, the Greek words are translated into different meanings.](http://crernst25.github.io/crernst25/images/the-digital-sappho-translation.png)
 
+Overall, I am very excited to continue working with this project. I definitely still have a lot more work and research to do as I move towards my budget portion of the project, but I am excited to continue working with this idea! 
