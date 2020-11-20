@@ -32,3 +32,5 @@ The translation featured below is my personal favorite, taken from Anne Carson's
 
 In a similar translation to Carson, there is also Mary Bernard's: 
 
+![Screenshot of Fragment 147 that reads: Let me tell you this: / someone in some future time / will think of us](http://crernst25.github.io/crernst25/images/mary-bernard-translation.png)
+
