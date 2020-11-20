@@ -24,4 +24,6 @@ The only criticism I have of this site is that each translation has its own sepa
 
 ## Fragment 147 
 
+In addition to researching several different sites so that I can further differentiate my project and improve on what already exists, I have also started collecting translations of my favorite Sappho poem: Fragment 147. Not only is this a poem that I think is particularly beautiful and thought-provoking, I also think that it helps to highlight how different translations can have very different interpretations of the same poem. 
+
 
