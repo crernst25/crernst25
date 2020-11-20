@@ -30,3 +30,5 @@ The translation featured below is my personal favorite, taken from Anne Carson's
 
 ![Screenshot of Fragment 147 that reads: someone will remember us / I say / even in another time](http://crernst25.github.io/crernst25/images/carson-translation.png) 
 
+In a similar translation to Carson, there is also Mary Bernard's: 
+
