@@ -1,4 +1,4 @@
-# Grant Project Update: What I Have Been Doing Lately 
+# Grant Project Update
 
 --- 
 
