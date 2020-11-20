@@ -12,7 +12,7 @@ Rather than just making a collection of her work, I would also like to incorpora
 
 When researching the field to see what already exists, I found that there weren't a lot of collections of Sappho's work in general, and when I did find them, they weren't very interactive. 
 
-Sean B. Palmer's webpage, [*Sappho's Poems*](http://inamidst.com/stuff/sappho/), contains both the original Greek and an English translation of the poem, but the translations aren't side-by-side, making it hard to compare the translations to the original. Further, all of the poems are on one page with an endless cross, so it is difficult to find a specific poem if there is one that the reader has in mind. 
+Sean B. Palmer's webpage, [*Sappho's Poems*](http://inamidst.com/stuff/sappho/), contains both the original Greek and an English translation of the poem, but the translations aren't side-by-side, making it hard to compare the translations to the original. Further, all of the poems are on one page with an endless scroll, so it is difficult to find a specific poem if there is one that the reader has in mind. 
 
 On the other hand, [*The Digital Sappho*](https://digitalsappho.org/fragments/fr118-168/) by Haverfod Commentary Library offers a table of contents on the left hand side of their page, where visitors can scroll through and choose the poems that they would like to look at. However, this resource does not focus on the translation of the poem as a whole, but instead looks more at what the meaning of individual words within the poem mean. While this is helpful for breaking down the Ancient Greek, the poem loses the art that gained Sappho her title as the Ninth Muse. 
 
