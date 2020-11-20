@@ -28,3 +28,5 @@ In addition to researching several different sites so that I can further differe
 
 The translation featured below is my personal favorite, taken from Anne Carson's collection, *If Not, Winter: Fragments of Sappho*: 
 
+![Screenshot of Fragment 147 that reads: someone will remember us / I say / even in another time](http://crernst25.github.io/crernst25/images/carson-translation.png) 
+
