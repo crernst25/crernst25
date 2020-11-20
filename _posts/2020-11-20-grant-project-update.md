@@ -9,3 +9,7 @@ For my project, I am pitching a digital anthology of Sappho's poetry. Sappho was
 Rather than just making a collection of her work, I would also like to incorporate several different translations of Sappho's poetry in my anthology so that readers can also think on the process of translation. I would like to allow for users to switch easily between the different English translations for each poem, so that they can compare and contrast the different versions. For Greek poetry, translation is essential, and each translator makes different choises to bring the poem to life during the translation process. 
 
 ## Research 
+
+When researching the field to see what already exists, I found that there weren't a lot of collections of Sappho's work in gneeral, and when I did find them, they weren't very interactive. 
+
+Sean B. Palmer's webpage, *Sappho's Poems*, contains both the original Greek 
