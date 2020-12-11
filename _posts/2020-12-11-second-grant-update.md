@@ -21,11 +21,9 @@ We did two peer reviews in class on the grant narrative, which is where not only
 When reviewing the comments from both of my reviewers, both of them mentioned that they didn't know who Sappho was prior to reading my grant narrative. 
 
 Peer Review 1:
-
 ![Screenshot that says: "Is the GN interesting and engaging? Does the first paragraph grab your attention and does the conclusion sum everything up in an intruging way? Please explain. Yes, it definitely grabbed me and threw me into the paper. I'd say this is a good thing because I didn't even know about this person until reading this. The conclusion wraps everything up well but could reiterate why she is important to study. Would help reinforce a few ideas." The line "I'd say this is a good thing because I didn't even know about this person until reading this" is highlighted in blue](http://crernst25.github.io/crernst25/images/peer-review-1.png) 
 
 Peer Review 2:
-
 ![Screenshot that says: "Your grant narrative looks good. I actually didn't know about Sappho until I read this. I think that you topic is amazing for your skillset"](http://crernst25.github.io/crernst25/images/peer-review-2.png) 
 
 Especially since I didn't have a lot of in-depth details about Sappho's life or her poetry, I think that this helps to affirm one of the purposes of this project, which is to teach people about a poet who is often left out of school curriculum in favor of men. Though my site will focus on her poetry and the various translation, its existence also functions to teach others about an important and overlooked Ancient Greek poet, and possibly introduce users to a new area of study that they might not have found otherwise. 
