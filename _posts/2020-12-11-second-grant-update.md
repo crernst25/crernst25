@@ -26,7 +26,7 @@ Peer Review 1:
 Peer Review 2:
 ![Screenshot that says: "Your grant narrative looks good. I actually didn't know about Sappho until I read this. I think that you topic is amazing for your skillset"](http://crernst25.github.io/crernst25/images/peer-review-2.png) 
 
-Especially since I didn't have a lot of in-depth details about Sappho's life or her poetry, I think that this helps to affirm one of the purposes of this project, which is to teach people about a poet who is often left out of school curriculum in favor of men. Though my site will focus on her poetry and the various translation, its existence also functions to teach others about an important and overlooked Ancient Greek poet, and possibly introduce users to a new area of study that they might not have found otherwise. 
+Especially since I didn't have a lot of in-depth details about Sappho's life or her poetry, I think that this helps to affirm one of the purposes of this project, which is to teach people about a LGBTQ+ female poet who is often left out of school curriculum in favor of men. Though my site will focus on her poetry and the various translation, its existence also functions to teach others about an important and overlooked Ancient Greek poet, and possibly introduce users to a new area of study that they might not have found otherwise. 
 
 Overall, I am really glad that I ended up taking this class. I learned a lot of different skills in this class that I'm sure I can apply one day to the workplace. Even if I don't, I feel like I gained from what this class taught me and I definitely improved as a writer because of it. 
 
