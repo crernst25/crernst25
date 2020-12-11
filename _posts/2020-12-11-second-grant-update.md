@@ -24,3 +24,5 @@ When reviewing the comments from both of my reviewers, both of them mentioned th
 
 ![Screenshot that says: "Is the GN interesting and engaging? Does the first paragraph grab your attention and does the conclusion sum everything up in an intruging way? Please explain. Yes, it definitely grabbed me and threw me into the paper. I'd say this is a good thing because I didn't even know about this person until reading this. The conclusion wraps everything up well but could reiterate why she is important to study. Would help reinforce a few ideas." The line "I'd say this is a good thing because I didn't even know about this person until reading this" is highlighted in blue](http://crernst25.github.io/crernst25/images/peer-review-1.png) 
 
+![Screenshot that says: "Your grant narrative looks good. I actually didn't know about Sappho until I read this. I think that you topic is amazing for your skillset"](http://crernst25.github.io/crernst25/images/peer-review-2.png) 
+
