@@ -16,3 +16,5 @@ In the end, I think what I have is stronger because I was forced to choose betwe
 
 ## Peer Reviews and the Purpose of My Assignment
 
+While the peer reviews have been really helpful in making sure I have all of various aspects that go into each part of my grant and for checking things like clarity, organization, and grammar, the peer reviews on the grant narrative have also really affirmed why I am pitching this project. 
+
