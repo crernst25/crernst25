@@ -14,7 +14,7 @@ In the end, I think what I have is stronger because I was forced to choose betwe
 
 ## Peer Reviews and the Purpose of My Project
 
-While the peer reviews have been really helpful in making sure I have all of various aspects that go into each part of my grant and for checking things like clarity, organization, and grammar, the peer reviews on the grant narrative have also really affirmed why I am pitching this project. 
+While the peer reviews have been really helpful in making sure I have all of various aspects that go into each part of my grant and for checking things like clarity, organization, and grammar, the peer reviews on the grant narrative have also affirmed why I am pitching this project. 
 
 We did two peer reviews in class on the grant narrative, which is where not only explain what my project is, but *who* Sappho is and why she is important. I don't spend a lot of time on this, but I give a brief introduction on her so readers who aren't as familiar with her or the Classical Studies field can go in what a basic knowledge of Sappho and her work. 
 
