@@ -12,7 +12,7 @@ I think a lot of this comes down to the fact that, in the end, I overwrite. Norm
 
 In the end, I think what I have is stronger because I was forced to choose between those long, lofty sentences I tend to fill my essays with and the necessary information I need to explain my project. 
 
-## Peer Reviews and the Purpose of My Assignment
+## Peer Reviews and the Purpose of My Project
 
 While the peer reviews have been really helpful in making sure I have all of various aspects that go into each part of my grant and for checking things like clarity, organization, and grammar, the peer reviews on the grant narrative have also really affirmed why I am pitching this project. 
 
