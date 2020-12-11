@@ -20,3 +20,5 @@ While the peer reviews have been really helpful in making sure I have all of var
 
 We did two peer reviews in class on the grant narrative, which is where not only explain what my project is, but *who* Sappho is and why she is important. I don't spend a lot of time on this, but I give a brief introduction on her so readers who aren't as familiar with her or the Classical Studies field can go in what a basic knowledge of Sappho and her work. 
 
+When reviewing the comments from both of my reviewers, both of them mentioned that they learned about Sappho in their feedback: 
+
